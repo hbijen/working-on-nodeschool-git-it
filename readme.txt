@@ -1,0 +1,1 @@
+Working out nodeschool git-it exercises
